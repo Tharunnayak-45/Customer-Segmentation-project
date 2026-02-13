@@ -62,5 +62,5 @@ To apply unsupervised machine learning algorithms to group customers into meanin
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Customer-Segmentation-project.git
+   git clone https://github.com/Tharunnayak-45/Customer-Segmentation-project.git
 
